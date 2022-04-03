@@ -1,5 +1,5 @@
 # Premojis
-Custom emojis for Prefect
+🤗 Custom emojis for Prefect
 
 ## Adding new premojis
 
