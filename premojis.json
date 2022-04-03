@@ -40,13 +40,6 @@
         ]
     },
     {
-        "name": "Spark",
-        "image": "spark.png",
-        "codes": [
-            "spark",
-        ]
-    },
-    {
         "name": "Azure",
         "image": "azure.png",
         "codes": [
@@ -204,6 +197,13 @@
         "image": "snowflake.png",
         "codes": [
             "snowflake"
+        ]
+    },
+    {
+        "name": "Spark",
+        "image": "spark.png",
+        "codes": [
+            "spark"
         ]
     },
     {
