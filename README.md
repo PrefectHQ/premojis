@@ -1,7 +1,16 @@
-# premojis
-Emojis for Prefect
+# Premojis
+Custom emojis for Prefect
 
-## All Premojis
+## Adding new premojis
+
+1. Add a `.png` or `.gif` file to the `/premojis` directory. Your file must be square and no more than 128x128px.
+2. Update `premojis.json` to add your emoji. You must provide three fields: 
+   - `name`: a proper name for the premoji 
+   - `image`: a path to the premoji image, relative to the `/premojis` directory
+   - `codes`: a list of one or more codes for your premoji. Codes can only contain alphanumeric characters or hyphens and must be unique.
+3. Update this readme to share your work!
+
+## All premojis
 
 
 Premoji | Name | Codes
