@@ -150,6 +150,13 @@
         ]
     },
     {
+        "name": "Postgres",
+        "image": "postgres.png",
+        "codes": [
+            "postgres"
+        ]
+    },
+    {
         "name": "Prefect",
         "image": "prefect.png",
         "codes": [
@@ -172,10 +179,25 @@
         ]
     },
     {
+        "name": "Python",
+        "image": "python.png",
+        "codes": [
+            "python"
+        ]
+    },
+    {
         "name": "PyTorch",
         "image": "pytorch.png",
         "codes": [
             "pytorch"
+        ]
+    },
+    {
+        "name": "Redshift",
+        "image": "redshift.png",
+        "codes": [
+            "redshift",
+            "amazon-redshift"
         ]
     },
     {
@@ -225,6 +247,73 @@
         "image": "dbt.png",
         "codes": [
             "dbt"
+        ]
+    },
+    {
+        "name": "marvin",
+        "image": "marvin.png",
+        "codes": [
+            "marvin"
+        ]
+    },
+    {
+        "name": "welcome",
+        "image": "welcome.png",
+        "codes": [
+            "welcome",
+            "wave"
+        ]
+    },
+    {
+        "name": "thank-you",
+        "image": "thank-you.png",
+        "codes": [
+            "thank-you",
+            "pray"
+        ]
+    },
+    {
+        "name": "rocket",
+        "image": "rocket.png",
+        "codes": [
+            "rocket"
+        ]
+    },
+    {
+        "name": "Great Expectations",
+        "image": "ge.png",
+        "codes": [
+            "ge",
+            "great-expectations"
+        ]
+    },
+    {
+        "name": "Kubernetes",
+        "image": "kubernetes.png",
+        "codes": [
+            "k8s",
+            "kubernetes"
+        ]
+    },
+    {
+        "name": "Shell",
+        "image": "shell.png",
+        "codes": [
+            "shell"
+        ]
+    },
+    {
+        "name": "Databricks",
+        "image": "databricks.png",
+        "codes": [
+            "databricks"
+        ]
+    },
+    {
+        "name": "Email",
+        "image": "email.png",
+        "codes": [
+            "email"
         ]
     }
 ]
