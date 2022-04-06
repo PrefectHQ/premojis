@@ -250,14 +250,14 @@
         ]
     },
     {
-        "name": "marvin",
+        "name": "Marvin",
         "image": "marvin.png",
         "codes": [
             "marvin"
         ]
     },
     {
-        "name": "welcome",
+        "name": "Welcome",
         "image": "welcome.png",
         "codes": [
             "welcome",
@@ -265,7 +265,7 @@
         ]
     },
     {
-        "name": "thank-you",
+        "name": "Thank You",
         "image": "thank-you.png",
         "codes": [
             "thank-you",
@@ -273,7 +273,7 @@
         ]
     },
     {
-        "name": "rocket",
+        "name": "Rocket",
         "image": "rocket.png",
         "codes": [
             "rocket"
